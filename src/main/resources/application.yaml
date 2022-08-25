@@ -1,0 +1,26 @@
+server:
+  port: 3030
+
+mywx:
+  appID: wxbe0b28fe9dd29ed9
+  appsecret: 2b412c68f86d40571b1f8bc581b975ee
+  #天气模板id
+  tempateid1: y6eTSAJ4K3ihkXFPaJxd5OhjO9mCBkaJ4UGw6N-h3Lk
+  #时间模板id
+  tempateid2: 3vzVDALydBuGCCW2gFL1Ae0REjs_XchUh47ePKfITtc
+  #事件提醒
+  tempateid3: ZLs_pljCtBGwCZfT44lIyS5OPELlNQsb_1z1eaRuQZQ
+  #城市id，这个id自己去网上找对应的城市id 。https://yikeapi.com/help/tianqicity
+  cityid: 101220501
+  #认识的日子
+  day1: 2022-01-01
+  #在一起的日子
+  day2: 2022-02-02
+  #我的生日
+  day3: 2022-03-03
+  #宝贝生日
+  day4: 2022-04-04
+  #要推送的用户列表
+  users:
+    - oOPTW6JNqH557aTgGpTDlvMrg4wo
+    - OPTW6BY6w-hQUn87Ja2d74Qfpso
